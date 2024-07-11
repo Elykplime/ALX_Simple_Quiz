@@ -1,4 +1,4 @@
-// function declarstion to check answer
+// function declaration to check answer
 function checkAnswer() {
     let correctAnswer = "4";
     // to retrieve user's answer
