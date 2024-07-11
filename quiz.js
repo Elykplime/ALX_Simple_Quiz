@@ -8,7 +8,7 @@ function checkAnswer() {
         document.getElementById ("feedback").textContent = "Correct! Well done.";
     }
     else {
-        document.getElementById ("feedback").textContent = "That's incorrect. Try again";
+        document.getElementById ("feedback").textContent = "That's incorrect. Try again!";
     }
 }
 
